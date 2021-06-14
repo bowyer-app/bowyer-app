@@ -20,3 +20,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Devices
+#### Android
+|  Name  |  OS  |
+| ---- | ---- |
+|  Nexus6  |  5.1.1  |
+|  Xperia Z3（SO-01G）  |  6.0.1  |
+|  Nexus5 |  6.0.1  |
+|  Elephone S7  |  7.1.1  |
+|  Nexus 5X  | 8.1.0  |
+|  Oppo Reno A  | 9  |
+|  Xperia XZ2 Compact（SO-05K）  | 9  |
+|  Essential Phone  | 10  |
+|  HUAWEI P30 lite  | 10  |
+|  Xperia 8（SOV42）  |  10  |
+|  Pixel3  |  12  |
+|  Pixel3a  |  10  |
+|  Pixel4a  |  11  |
+|  Pixel4a  |  11  |
+|  Xperia 1 Ⅱ（XQ-AT42）  |  11  |
+
+#### iOS
+|  Name  |  OS  |
+| ---- | ---- |
+|  iPhone 5S  |  	12.5.3  |
+|  iPhone 6S Plus  |  	14  |
+|  iPhone X  |  	14.4.1  |
+|  iPhone 11  |  	14.6  |
+#### Tablet
+|  Name  |  OS  |
+| ---- | ---- |
+|  Xperia Tablet Z2  |  	5.0.2 |
+|  iPad Pro 9.7  |  	不明  |
+|  iPad Air 第4世代  |  	14.4.2  |
+
+
