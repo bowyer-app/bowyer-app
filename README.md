@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 | ---- | ---- |
 |  Nexus6  |  5.1.1  |
 |  Nexus5 |  6.0.1  |
-|  Elephone S7  |  7.1.1  |
 |  Nexus 5X  | 8.1.0  |
 |  Xperia X Compact  | 8  |
 |  Pixel XL  | 8.1  |
