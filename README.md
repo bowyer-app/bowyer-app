@@ -27,12 +27,11 @@ Here are some ideas to get you started:
 | ---- | ---- |
 |  Nexus6  |  5.1.1  |
 |  Nexus5 |  6.0.1  |
+|  SH-01K |  7.1.2  |
 |  Nexus 5X  | 8.1.0  |
 |  Xperia X Compact  | 8  |
 |  Pixel XL  | 8.1  |
-|  Oppo Reno A  | 9  |
 |  Xperia XZ2 Compact（SO-05K）  | 9  |
-|  Essential Phone  | 10  |
 |  HUAWEI P30 lite  | 10  |
 |  Pixel3  |  12  |
 |  Pixel3a  |  10  |
@@ -51,6 +50,6 @@ Here are some ideas to get you started:
 | ---- | ---- |
 |  iPad Air 第4世代  |  	iOS 16.3  |
 |  iPad mini 第6世代  |  	iOS 15.1  |
-|  Xiaomi Pad 5  |  Android 12  |
+
 
 
